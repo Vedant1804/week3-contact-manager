@@ -1,0 +1,2 @@
+# No external dependencies required for this version.
+# Built using Python 3.10+
