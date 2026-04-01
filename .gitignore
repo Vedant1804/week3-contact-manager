@@ -1,0 +1,10 @@
+# Ignore python cache
+__pycache__/
+*.py[cod]
+
+# Ignore local data files
+contacts_data.json
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
